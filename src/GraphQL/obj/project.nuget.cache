@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qgyGDfjXEM84M2aRuacIhYPHhqvILBzgv+QoDyqgLJI2tTACoyEVFB/kbsWEOn9HGLrtU9czQLTGjF5cpU2ZfA==",
+  "dgSpecHash": "VxIMXDANoWw5Vcpb/MkyguQd3I5Z7SyN9gMC7UFng1iUMYQesiXYiSrWmcfKUlee2FFzZufQl36U0MblwjxBDw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\GraphQL\\GraphQL.csproj",
+  "projectFilePath": "C:\\Users\\BryanBriones\\Documents\\Personal\\.NETGraphQL-Boilerplate\\src\\GraphQL\\GraphQL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BryanBriones\\.nuget\\packages\\appany.hotchocolate.fluentvalidation\\0.12.0\\appany.hotchocolate.fluentvalidation.0.12.0.nupkg.sha512",
     "C:\\Users\\BryanBriones\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",

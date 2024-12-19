@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Data\\Data.csproj": {}
+    "C:\\Users\\BryanBriones\\Documents\\Personal\\.NETGraphQL-Boilerplate\\src\\Data\\Data.csproj": {}
   },
   "projects": {
-    "c:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Data\\Data.csproj": {
+    "C:\\Users\\BryanBriones\\Documents\\Personal\\.NETGraphQL-Boilerplate\\src\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\BryanBriones\\Documents\\Personal\\.NETGraphQL-Boilerplate\\src\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "c:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Data\\Data.csproj",
+        "projectPath": "C:\\Users\\BryanBriones\\Documents\\Personal\\.NETGraphQL-Boilerplate\\src\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\BryanBriones\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Data\\obj\\",
+        "outputPath": "C:\\Users\\BryanBriones\\Documents\\Personal\\.NETGraphQL-Boilerplate\\src\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BryanBriones\\AppData\\Roaming\\NuGet\\NuGet.Config",

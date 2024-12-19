@@ -5301,11 +5301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\GraphQL\\GraphQL.csproj",
+      "projectUniqueName": "C:\\Users\\BryanBriones\\Documents\\Personal\\.NETGraphQL-Boilerplate\\src\\GraphQL\\GraphQL.csproj",
       "projectName": "GraphQL",
-      "projectPath": "c:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\GraphQL\\GraphQL.csproj",
+      "projectPath": "C:\\Users\\BryanBriones\\Documents\\Personal\\.NETGraphQL-Boilerplate\\src\\GraphQL\\GraphQL.csproj",
       "packagesPath": "C:\\Users\\BryanBriones\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\GraphQL\\obj\\",
+      "outputPath": "C:\\Users\\BryanBriones\\Documents\\Personal\\.NETGraphQL-Boilerplate\\src\\GraphQL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BryanBriones\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5322,8 +5322,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Schema\\Schema.csproj": {
-              "projectPath": "c:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Schema\\Schema.csproj"
+            "C:\\Users\\BryanBriones\\Documents\\Personal\\.NETGraphQL-Boilerplate\\src\\Schema\\Schema.csproj": {
+              "projectPath": "C:\\Users\\BryanBriones\\Documents\\Personal\\.NETGraphQL-Boilerplate\\src\\Schema\\Schema.csproj"
             }
           }
         }

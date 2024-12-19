@@ -9,6 +9,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Schema
-build_property.ProjectDir = c:\Users\BryanBriones\Documents\New project\pharmaserv-admin-portal-graphql\src\Schema\
+build_property.ProjectDir = C:\Users\BryanBriones\Documents\Personal\.NETGraphQL-Boilerplate\src\Schema\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
