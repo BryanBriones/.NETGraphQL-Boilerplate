@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF67637-0FC7-4F11-83F2-B9562BE1158B}|src\\Schema\\Schema.csproj|c:\\users\\bryanbriones\\documents\\new project\\pharmaserv-admin-portal-graphql\\src\\schema\\schema.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5CF67637-0FC7-4F11-83F2-B9562BE1158B}|src\\Schema\\Schema.csproj|solutionrelative:src\\schema\\schema.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF67637-0FC7-4F11-83F2-B9562BE1158B}|src\\Schema\\Schema.csproj|c:\\users\\bryanbriones\\documents\\new project\\pharmaserv-admin-portal-graphql\\src\\schema\\schema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CF67637-0FC7-4F11-83F2-B9562BE1158B}|src\\Schema\\Schema.csproj|solutionrelative:src\\schema\\schema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF67637-0FC7-4F11-83F2-B9562BE1158B}|src\\Schema\\Schema.csproj|c:\\users\\bryanbriones\\documents\\new project\\pharmaserv-admin-portal-graphql\\src\\schema\\startupextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF67637-0FC7-4F11-83F2-B9562BE1158B}|src\\Schema\\Schema.csproj|solutionrelative:src\\schema\\startupextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED21498B-B4B9-4FD9-AF14-34443CD8CC86}|src\\GraphQL\\GraphQL.csproj|c:\\users\\bryanbriones\\documents\\new project\\pharmaserv-admin-portal-graphql\\src\\graphql\\graphql.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{ED21498B-B4B9-4FD9-AF14-34443CD8CC86}|src\\GraphQL\\GraphQL.csproj|solutionrelative:src\\graphql\\graphql.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED21498B-B4B9-4FD9-AF14-34443CD8CC86}|src\\GraphQL\\GraphQL.csproj|c:\\users\\bryanbriones\\documents\\new project\\pharmaserv-admin-portal-graphql\\src\\graphql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED21498B-B4B9-4FD9-AF14-34443CD8CC86}|src\\GraphQL\\GraphQL.csproj|solutionrelative:src\\graphql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D490B8-0C48-4D03-A35F-9BB6E062E9EF}|src\\Data\\Data.csproj|c:\\users\\bryanbriones\\documents\\new project\\pharmaserv-admin-portal-graphql\\src\\data\\pharmaservadmincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D490B8-0C48-4D03-A35F-9BB6E062E9EF}|src\\Data\\Data.csproj|solutionrelative:src\\data\\pharmaservadmincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D490B8-0C48-4D03-A35F-9BB6E062E9EF}|src\\Data\\Data.csproj|c:\\users\\bryanbriones\\documents\\new project\\pharmaserv-admin-portal-graphql\\src\\data\\data.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{91D490B8-0C48-4D03-A35F-9BB6E062E9EF}|src\\Data\\Data.csproj|solutionrelative:src\\data\\data.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Data\\ISCResearchDWContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Data\\ISCResearchDWContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D490B8-0C48-4D03-A35F-9BB6E062E9EF}|src\\Data\\Data.csproj|c:\\users\\bryanbriones\\documents\\new project\\pharmaserv-admin-portal-graphql\\src\\data\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91D490B8-0C48-4D03-A35F-9BB6E062E9EF}|src\\Data\\Data.csproj|solutionrelative:src\\data\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\GraphQL\\obj\\Debug\\net8.0\\GraphQL.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\GraphQL\\obj\\Debug\\net8.0\\GraphQL.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GraphQL",
+              "DocumentMoniker": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\GraphQL\\GraphQL.csproj",
+              "RelativeDocumentMoniker": "src\\GraphQL\\GraphQL.csproj",
+              "ToolTip": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\GraphQL\\GraphQL.csproj",
+              "RelativeToolTip": "src\\GraphQL\\GraphQL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T14:24:01.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GraphQL.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\GraphQL\\obj\\Debug\\net8.0\\GraphQL.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "src\\GraphQL\\obj\\Debug\\net8.0\\GraphQL.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\GraphQL\\obj\\Debug\\net8.0\\GraphQL.GlobalUsings.g.cs",
+              "RelativeToolTip": "src\\GraphQL\\obj\\Debug\\net8.0\\GraphQL.GlobalUsings.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:23:06.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Schema",
+              "DocumentMoniker": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Schema\\Schema.csproj",
+              "RelativeDocumentMoniker": "src\\Schema\\Schema.csproj",
+              "ToolTip": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Schema\\Schema.csproj",
+              "RelativeToolTip": "src\\Schema\\Schema.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T14:03:12.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Data",
+              "DocumentMoniker": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "src\\Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Data\\Data.csproj",
+              "RelativeToolTip": "src\\Data\\Data.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T14:02:14.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartupExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Schema\\StartupExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Schema\\StartupExtensions.cs",
+              "ToolTip": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Schema\\StartupExtensions.cs",
+              "RelativeToolTip": "src\\Schema\\StartupExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:37:31.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Schema.csproj",
+              "DocumentMoniker": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Schema\\Schema.csproj",
+              "RelativeDocumentMoniker": "src\\Schema\\Schema.csproj",
+              "ToolTip": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Schema\\Schema.csproj",
+              "RelativeToolTip": "src\\Schema\\Schema.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T11:36:38.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PharmaservAdminContext.cs",
+              "DocumentMoniker": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Data\\PharmaservAdminContext.cs",
+              "RelativeDocumentMoniker": "src\\Data\\PharmaservAdminContext.cs",
+              "ToolTip": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Data\\PharmaservAdminContext.cs",
+              "RelativeToolTip": "src\\Data\\PharmaservAdminContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:25:57.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Data\\efpt.config.json",
+              "RelativeDocumentMoniker": "src\\Data\\efpt.config.json",
+              "ToolTip": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Data\\efpt.config.json",
+              "RelativeToolTip": "src\\Data\\efpt.config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T11:25:24.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISCResearchDWContext.cs",
+              "DocumentMoniker": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Data\\ISCResearchDWContext.cs",
+              "RelativeDocumentMoniker": "src\\Data\\ISCResearchDWContext.cs",
+              "ToolTip": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\Data\\ISCResearchDWContext.cs",
+              "RelativeToolTip": "src\\Data\\ISCResearchDWContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:25:16.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\GraphQL\\Program.cs",
+              "RelativeDocumentMoniker": "src\\GraphQL\\Program.cs",
+              "ToolTip": "C:\\Users\\BryanBriones\\Documents\\New project\\pharmaserv-admin-portal-graphql\\src\\GraphQL\\Program.cs",
+              "RelativeToolTip": "src\\GraphQL\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:24:59.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

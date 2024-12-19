@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphQL", "src\GraphQL\GraphQL.csproj", "{ED21498B-B4B9-4FD9-AF14-34443CD8CC86}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Schema", "src\Schema\Schema.csproj", "{5CF67637-0FC7-4F11-83F2-B9562BE1158B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "src\Data\Data.csproj", "{91D490B8-0C48-4D03-A35F-9BB6E062E9EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED21498B-B4B9-4FD9-AF14-34443CD8CC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED21498B-B4B9-4FD9-AF14-34443CD8CC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED21498B-B4B9-4FD9-AF14-34443CD8CC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED21498B-B4B9-4FD9-AF14-34443CD8CC86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CF67637-0FC7-4F11-83F2-B9562BE1158B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF67637-0FC7-4F11-83F2-B9562BE1158B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF67637-0FC7-4F11-83F2-B9562BE1158B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF67637-0FC7-4F11-83F2-B9562BE1158B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D490B8-0C48-4D03-A35F-9BB6E062E9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D490B8-0C48-4D03-A35F-9BB6E062E9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D490B8-0C48-4D03-A35F-9BB6E062E9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D490B8-0C48-4D03-A35F-9BB6E062E9EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A30AECCE-4B0E-40ED-A66D-6A8EE1F4EA73}
+	EndGlobalSection
+EndGlobal

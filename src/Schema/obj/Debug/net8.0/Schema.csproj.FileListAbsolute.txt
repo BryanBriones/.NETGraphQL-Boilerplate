@@ -1,0 +1,15 @@
+c:\Users\BryanBriones\Documents\New project\pharmaserv-admin-portal-graphql\src\Schema\obj\Debug\net8.0\Schema.csproj.AssemblyReference.cache
+c:\Users\BryanBriones\Documents\New project\pharmaserv-admin-portal-graphql\src\Schema\obj\Debug\net8.0\Schema.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\BryanBriones\Documents\New project\pharmaserv-admin-portal-graphql\src\Schema\obj\Debug\net8.0\Schema.AssemblyInfoInputs.cache
+c:\Users\BryanBriones\Documents\New project\pharmaserv-admin-portal-graphql\src\Schema\obj\Debug\net8.0\Schema.AssemblyInfo.cs
+c:\Users\BryanBriones\Documents\New project\pharmaserv-admin-portal-graphql\src\Schema\obj\Debug\net8.0\Schema.csproj.CoreCompileInputs.cache
+c:\Users\BryanBriones\Documents\New project\pharmaserv-admin-portal-graphql\src\Schema\bin\Debug\net8.0\Schema.deps.json
+c:\Users\BryanBriones\Documents\New project\pharmaserv-admin-portal-graphql\src\Schema\bin\Debug\net8.0\Schema.dll
+c:\Users\BryanBriones\Documents\New project\pharmaserv-admin-portal-graphql\src\Schema\bin\Debug\net8.0\Schema.pdb
+c:\Users\BryanBriones\Documents\New project\pharmaserv-admin-portal-graphql\src\Schema\bin\Debug\net8.0\Data.dll
+c:\Users\BryanBriones\Documents\New project\pharmaserv-admin-portal-graphql\src\Schema\bin\Debug\net8.0\Data.pdb
+c:\Users\BryanBriones\Documents\New project\pharmaserv-admin-portal-graphql\src\Schema\obj\Debug\net8.0\Schema.csproj.Up2Date
+c:\Users\BryanBriones\Documents\New project\pharmaserv-admin-portal-graphql\src\Schema\obj\Debug\net8.0\Schema.dll
+c:\Users\BryanBriones\Documents\New project\pharmaserv-admin-portal-graphql\src\Schema\obj\Debug\net8.0\refint\Schema.dll
+c:\Users\BryanBriones\Documents\New project\pharmaserv-admin-portal-graphql\src\Schema\obj\Debug\net8.0\Schema.pdb
+c:\Users\BryanBriones\Documents\New project\pharmaserv-admin-portal-graphql\src\Schema\obj\Debug\net8.0\ref\Schema.dll
